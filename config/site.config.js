@@ -52,8 +52,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
      {
-      name: 'Email',
-      link: 'mailto:cloud@antharris.xyz',
+      name: '',
+      link: '',
     },
    
   ],
